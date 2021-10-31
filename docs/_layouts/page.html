@@ -3,10 +3,14 @@ layout: default
 ---
 <article class="post">
 
-  <header class="post-header">
+  <!-- <header class="post-header">
     <h1 class="post-title">{{ page.title | escape }}</h1>
   </header>
 
+  <div class="post-content">
+    {{ content }}
+  </div> -->
+  <h1 id="header-1" class="header-level-1">{{ page.title | escape }}</h1>
   <div class="post-content">
     {{ content }}
   </div>

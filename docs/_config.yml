@@ -21,7 +21,8 @@
 title: Blake T. Williams
 email: blaketwilliams17@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  View various opinions and insights I've picked up in my time as a software engineer.
+  Software Engineer - Adventurer - Tech Enthusiast - Geek of Many Interests
+# View various opinions and insights I've picked up in my time as a software engineer.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
