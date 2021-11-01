@@ -13,7 +13,7 @@ Below are technologies I used throughout the years. This isn't an all inclusive 
 | 2011 - 2013 | **Java** | - |
 | 2014 - 2017 | **C++**, Angular JS | - |
 | 2018 | **TS**, **ReactJS**, Node.js, F#, IIS, ASP.NET Web API, PowerShell | Front-end Development |
-| 2019 | **TS**, **ReactJS**, **PowerShell**, Node.js, F#, IIS, .NET 5, T-SQL, SQL Server 2017, Docker | + Dev Ops <br> + Ops |
+| 2019 | **TS**, **ReactJS**, **PowerShell**, Node.js, F#, IIS, ASP.NET Core, T-SQL, SQL Server 2017, Docker | + Dev Ops <br> + Ops |
 | 2020 | **TS**, **ReactJS**, **PowerShell**, **GitLab**, Node.js, F#, IIS, .NET 5, T-SQL, SQL Server 2017, Docker | + CI/CD Dev <br> + Full Stack
 | 2021 | **TS**, **ReactJS**, **PowerShell**, **GitLab**, **Node.js**, **Azure Functions**, F#, IIS, .NET 5, T-SQL, SQL Server 2017, Docker | + CLI Dev<br> + Cloud|
 
